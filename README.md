@@ -1,0 +1,1 @@
+This file is uploaded here, rather than on IBM Watsonx.ai, as I could not see a share button on my watsonx.ai page. I tried contact IBM, but they said, I am not eleigible for support with a basic acocunt. I posted in the discussion forum on Coursera and Siji suggested I upload to GitHub, instead.
